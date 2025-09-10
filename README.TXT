@@ -44,3 +44,6 @@ I can also use the setTime() method setTime(1,00)
 
 #25 Rectangle window = new Rectangle(width, length);
 
+#26 There are 2 constructor here hours, minutes
+the constructor minute lets the NumberDisplay max out at 60 (it rolls over at 60)
+
