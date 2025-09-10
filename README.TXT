@@ -39,3 +39,8 @@ when setTime(2,40) the displayString show "02:40"
 
 #23 I have to call it 60 times
 I can also use the setTime() method setTime(1,00)
+
+#24 digit = new NumberDisplay(10);
+
+#25 Rectangle window = new Rectangle(width, length);
+
