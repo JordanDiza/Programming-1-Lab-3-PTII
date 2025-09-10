@@ -38,3 +38,4 @@ Its like that because I didnt put the number of hours and minutes in it yet
 when setTime(2,40) the displayString show "02:40"
 
 #23 I have to call it 60 times
+I can also use the setTime() method setTime(1,00)
