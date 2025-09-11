@@ -77,5 +77,19 @@ If I try (-8 % -3) I get -2
 #35 The possible result would depend on the m variable if 
 m= 10 it would be [10,0] & [-1,-10]
 
-#36
+#36  public ClockDisplay()
+    {
+        hours = new NumberDisplay(12);
+        minutes = new NumberDisplay(60);
+        updateDisplay();
+    }
+
+    public ClockDisplay(int hour, int minute)
+    {
+        hours = new NumberDisplay(12);
+        minutes = new NumberDisplay(60);
+        setTime(hour, minute);
+    }
+    
+    change the roll over to 12
 
