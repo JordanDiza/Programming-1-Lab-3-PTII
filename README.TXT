@@ -47,4 +47,11 @@ I can also use the setTime() method setTime(1,00)
 #26 There are 2 constructor here hours, minutes
 the constructor minute lets the NumberDisplay max out at 60 (it rolls over at 60)
 
-#27 Wehn you put the values for hour it already updates so you dont need to put it there
+#27 When you put the values for hour it already updates so you dont need to put it there
+
+#28 p1.print("myfile.txt, true");
+int status = p1.getStatus(6);
+
+#29 wall, window, roof, sun, drawn
+
+#30
