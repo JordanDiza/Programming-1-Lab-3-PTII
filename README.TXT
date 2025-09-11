@@ -92,4 +92,6 @@ m= 10 it would be [10,0] & [-1,-10]
     }
     
     change the roll over to 12
+i give up
 
+#37 I feel like option 2 is better because it is simple changing the clock to a 24 hour clock to a 12 hour clock just killed my brain
