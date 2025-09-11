@@ -54,4 +54,28 @@ int status = p1.getStatus(6);
 
 #29 wall, window, roof, sun, drawn
 
-#30
+#30         changeSize(60, 180);
+            moveHorizontal(20);
+            moveVertical(-60);
+            makeVisible();   
+
+#31 Yes, if and 
+    private Square wall;
+    private Square window;
+    private Triangle roof;
+    private Circle sun;
+    private boolean drawn;
+    
+#32 2.6
+
+#33 I get 2
+If I try (-8 % -3) I get -2
+
+#34 -4,-3,-2,-1,0
+     4,3,2,1
+     
+#35 The possible result would depend on the m variable if 
+m= 10 it would be [10,0] & [-1,-10]
+
+#36
+
